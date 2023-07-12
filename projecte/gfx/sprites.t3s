@@ -1,0 +1,24 @@
+--atlas -f rgba8888 -z auto
+0_lower_screen.png
+0_upper_screen.png
+1_tower00.png
+1_tower01.png
+1_tower10.png
+1_tower11.png
+1_tower20.png
+1_tower21.png
+1_tower30.png
+2_1.png
+2_2.png
+2_3.png
+3_enemy0.png
+3_enemy1.png
+3_enemy2.png
+4_game_over.png
+4_victory.png
+5_vida0.png
+5_vida1.png
+5_vida2.png
+6_comenzar.png
+6_titulo.png
+6_titulo_abajo.png
